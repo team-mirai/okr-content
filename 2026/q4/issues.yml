@@ -1,0 +1,184 @@
+issues:
+- key: demo
+  visual: cycle
+  lead: イシューA これは画面のレイアウトを確認するためのダミーテキストです。
+  groups:
+  - key: listen
+    tag: グループ1
+    kicker: ラベル1
+    title: これは画面のレイアウトを確認するためのダミーテキストです。
+    krs:
+    - hq-a-o1-kr1
+    - hq-a-o2-kr1
+    - hq-a-o2-kr3
+    - hq-a-o3-kr2
+    - hq-a-o3-kr4
+    - hq-f-o2-kr3
+  - key: refine
+    tag: グループ2
+    kicker: ラベル2
+    title: これは画面のレイアウトを確認するためのダミーテキストです。
+    note: イシューA-G2 これは画面のレイアウトを確認するためのダミーテキストです。
+    krs:
+    - hq-a-o1-kr2
+    - hq-a-o1-kr3
+    - hq-b-o2-kr2-1
+    - hq-b-o2-kr2-2
+    - hq-f-o2-kr1
+    - hq-f-o2-kr2
+  - key: move
+    tag: グループ3
+    kicker: ラベル3
+    title: これは画面のレイアウトを確認するためのダミーテキストです。
+    note: イシューA-G3 これは画面のレイアウトを確認するためのダミーテキストです。
+    krs:
+    - hq-c-o1-kr1-1
+    - hq-d-o1-kr1
+    - hq-d-o1-kr2
+    - hq-c-o1-kr1-2
+    - hq-c-o1-kr1-3
+    - hq-f-o1-kr2
+  - key: tell
+    tag: グループ4
+    kicker: ラベル4
+    title: イシューA-G4 これは画面のレイアウトを確認するためのダミーテキストです。
+    note: イシューA-G4 これは画面のレイアウトを確認するためのダミーテキストです。
+    krs:
+    - hq-e-o4-kr4-1
+    - hq-e-o4-kr4-3
+    - hq-g-o3-kr3-3
+    - hq-e-o3-kr3-1
+    - hq-e-o3-kr3-2
+    - hq-e-o3-kr3-2b
+  - key: loop
+    tag: グループ5
+    kicker: ラベル5
+    title: これは画面のレイアウトを確認するためのダミーテキストです。
+    note: イシューA-G5 これは画面のレイアウトを確認するためのダミーテキストです。
+    krs:
+    - hq-e-o4-kr4-2
+    - hq-a-o2-kr2
+    - hq-a-o1-kr4
+    - hq-a-o2-kr4
+    - hq-a-o3-kr3
+- key: open
+  visual: index
+  lead: イシューB これは画面のレイアウトを確認するためのダミーテキストです。実際の内容は後から差し替えます。
+  groups:
+  - key: thinking
+    tag: グループ1
+    title: これは画面のレイアウトを確認するためのダミーテキストです。
+    note: イシューB-G1 これは画面のレイアウトを確認するためのダミーテキストです。
+    krs:
+    - hq-e-o2-kr2-1
+    - hq-e-o2-kr2-2
+    - hq-c-o2-kr2-2
+    - hq-b-o3-kr3-1
+  - key: debate
+    tag: グループ2
+    title: これは画面のレイアウトを確認するためのダミーテキストです。
+    note: イシューB-G2 これは画面のレイアウトを確認するためのダミーテキストです。実際の内容は後から差し替えます。
+    krs:
+    - hq-b-o1-kr1-2
+    - hq-e-o1-kr1-1
+    - hq-e-o1-kr1-2
+    - hq-a-o3-kr1
+    sim:
+    - - hq-b-o1-kr1-2
+      - hq-e-o1-kr1-1
+  - key: decision
+    tag: グループ3
+    title: イシューB-G3 これは画面のレイアウトを確認するためのダミーテキストです。
+    note: イシューB-G3 これは画面のレイアウトを確認するためのダミーテキストです。実際の内容は後から差し替えます。
+    krs:
+    - hq-b-o1-kr1-1
+    - hq-c-o2-kr2-1
+    - hq-f-o1-kr1
+    - hq-b-o3-kr3-2
+    sim:
+    - - hq-b-o1-kr1-1
+      - hq-c-o2-kr2-1
+      - hq-f-o1-kr1
+  - key: activity
+    tag: グループ4
+    title: これは画面のレイアウトを確認するためのダミーテキストです。
+    note: イシューB-G4 これは画面のレイアウトを確認するためのダミーテキストです。
+    krs:
+    - hq-c-o2-kr2-3
+    - hq-d-o1-kr4
+    - hq-d-o1-kr3
+    - hq-f-o1-kr3
+  - key: money
+    tag: グループ5
+    title: これは画面のレイアウトを確認するためのダミーテキストです。
+    note: イシューB-G5 これは画面のレイアウトを確認するためのダミーテキストです。
+    krs:
+    - hq-f-o1-kr4
+    - hq-i-o1-kr4
+    sim:
+    - - hq-f-o1-kr4
+      - hq-i-o1-kr4
+- key: org
+  visual: index
+  lead: イシューC これは画面のレイアウトを確認するためのダミーテキストです。実際の内容は後から差し替えます。
+  groups:
+  - key: feedback
+    tag: グループ1
+    title: これは画面のレイアウトを確認するためのダミーテキストです。
+    krs:
+    - hq-h-o3-kr3-1
+    - hq-h-o3-kr3-2
+    - hq-h-o3-kr3-3
+  - key: supporters
+    tag: グループ2
+    title: これは画面のレイアウトを確認するためのダミーテキストです。
+    note: イシューC-G2 これは画面のレイアウトを確認するためのダミーテキストです。実際の内容は後から差し替えます。
+    krs:
+    - hq-g-o1-kr1-1
+    - hq-g-o2-kr2-1
+    - hq-g-o2-kr2-2
+    - hq-g-o3-kr3-1
+    - hq-g-o3-kr3-2
+  - key: admin
+    tag: グループ3
+    title: これは画面のレイアウトを確認するためのダミーテキストです。
+    krs:
+    - hq-i-o1-kr1
+    - hq-i-o1-kr2
+    - hq-i-o1-kr3
+    - hq-i-o1-kr5
+    - hq-i-o3-kr1
+    - hq-i-o3-kr2
+    - hq-f-o3-kr3
+  - key: infosec
+    tag: グループ4
+    title: これは画面のレイアウトを確認するためのダミーテキストです。
+    brief: true
+    krs:
+    - hq-i-o2-kr1
+    - hq-i-o2-kr2
+    - hq-i-o2-kr3
+  - key: platform
+    tag: グループ5
+    title: これは画面のレイアウトを確認するためのダミーテキストです。
+    krs:
+    - hq-f-o3-kr1
+    - hq-f-o3-kr2
+- key: talent
+  visual: index
+  lead: イシューD これは画面のレイアウトを確認するためのダミーテキストです。実際の内容は後から差し替えます。
+  groups:
+  - key: staff
+    tag: グループ1
+    title: イシューD-G1 これは画面のレイアウトを確認するためのダミーテキストです。
+    krs:
+    - hq-h-o1-kr1-1
+    - hq-h-o1-kr1-2
+    - hq-h-o2-kr2
+  - key: election
+    tag: グループ2
+    title: これは画面のレイアウトを確認するためのダミーテキストです。
+    krs:
+    - hq-j-o1-kr1
+    - hq-j-o1-kr2
+    - hq-j-o1-kr3
