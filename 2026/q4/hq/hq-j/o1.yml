@@ -1,0 +1,31 @@
+hq: hq-j
+id: hq-j-o1
+label: O1
+copy: これは画面のレイアウトを確認するためのダミーテキストです。
+objective:
+- J-O1-1 これは画面のレイアウトを確認するためのダミーテキストです。
+krs:
+- id: hq-j-o1-kr1
+  k: KR1
+  text: J-O1-KR1 これは画面のレイアウトを確認するためのダミーテキストです。
+  summary: J-O1-KR1 これは画面のレイアウトを確認するためのダミーテキストです。
+  metrics:
+  - c: 0
+    t: 0〜3
+    u: 人
+  status: 注意
+- id: hq-j-o1-kr2
+  k: KR2
+  text: J-O1-KR2 これは画面のレイアウトを確認するためのダミーテキストです。
+  summary: J-O1-KR2 これは画面のレイアウトを確認するためのダミーテキストです。
+  goal_word: 完了
+  status: 未着手
+- id: hq-j-o1-kr3
+  k: KR3
+  text: J-O1-KR3 これは画面のレイアウトを確認するためのダミーテキストです。
+  summary: J-O1-KR3 これは画面のレイアウトを確認するためのダミーテキストです。
+  metrics:
+  - c: 1
+    t: 1
+    u: 人
+  status: 達成

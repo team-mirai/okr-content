@@ -1,0 +1,28 @@
+hq: hq-f
+id: hq-f-o2
+label: O2
+copy: これは画面のレイアウトを確認するためのダミーテキストです。
+objective:
+- F-O2-1 これは画面のレイアウトを確認するためのダミーテキストです。
+krs:
+- id: hq-f-o2-kr1
+  k: KR1
+  text: F-O2-KR1 これは画面のレイアウトを確認するためのダミーテキストです。
+  summary: F-O2-KR1 これは画面のレイアウトを確認するためのダミーテキストです。
+  goal_word: 公開
+  status: 注意
+- id: hq-f-o2-kr2
+  k: KR2
+  text: F-O2-KR2 これは画面のレイアウトを確認するためのダミーテキストです。
+  summary: F-O2-KR2 これは画面のレイアウトを確認するためのダミーテキストです。
+  metrics:
+  - c: 0
+    t: 1
+    u: 件
+  status: 危険
+- id: hq-f-o2-kr3
+  k: KR3
+  text: F-O2-KR3 これは画面のレイアウトを確認するためのダミーテキストです。
+  summary: F-O2-KR3 これは画面のレイアウトを確認するためのダミーテキストです。
+  goal_word: 完了
+  status: 未着手
