@@ -1,0 +1,34 @@
+hq: kaihatsu
+id: kaihatsu-o2
+label: O2
+copy: 熟議システムの基盤をつくる
+objective:
+- 熟議システムのパーツを構築し、みらいSNSの基盤を作っていく
+krs:
+- id: kaihatsu-o2-kr1
+  k: KR1
+  text: みらい版Polisを本番公開し、論点投票×AIインタビューで意見グループを構造化できるようにする
+  summary: 異なる意見を可視化するみらい版Polisを公開する
+  metrics:
+  - c: 0
+    t: 1
+    u: 件
+  status: 順調
+- id: kaihatsu-o2-kr2
+  k: KR2
+  text: 元案→プランC→再決議まで回り、対立の緩和×パレート改善を定量的に測った事例が党内・党外で公開されている
+  summary: 熟議システムによって対立が緩和した事例が1件生まれる
+  metrics:
+  - c: 未着手
+    t: 1
+    u: 件
+  status: 未着手
+- id: kaihatsu-o2-kr3
+  k: KR3
+  text: みらいSNSの要件定義・ワイヤーが揃し27年1Qにα開発へ着手できる状態となっている
+  summary: みらいSNSの要件定義とワイヤーを作成する
+  metrics:
+  - c: 未着手
+    t: 1
+    u: 件
+  status: 未着手

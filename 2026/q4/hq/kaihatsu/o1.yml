@@ -1,0 +1,43 @@
+hq: kaihatsu
+id: kaihatsu-o1
+label: O1
+copy: 国会と党の動きを見える化する
+objective:
+- 臨時国会の法案・予算・チームみらいの活動が見える化されている
+krs:
+- id: kaihatsu-o1-kr1
+  k: KR1
+  text: みらい議会に、採決される全法案が国会提出から1週間以内に載り、賛否根拠は委員会採決の日までに100%掲載され、更新がXで発信されている
+  summary: 全法案に対する賛否と根拠を、委員会採決の日までにみらい議会に公開する
+  metrics:
+  - c: 0
+    t: 100
+    u: '%'
+  status: 順調
+- id: kaihatsu-o1-kr2
+  k: KR2
+  text: 政府可視化→特設サイト→委員会質疑を1回通し切り、次期本予算の質疑に向けての実行プランが作成されている
+  summary: 政府予算を見える化し、それを元に委員会質疑を1回実施する
+  metrics:
+  - c: 0
+    t: 1
+    u: 回
+  status: 注意
+- id: kaihatsu-o1-kr3
+  k: KR3
+  text: 政党トラッカーのプロトタイプがサポーター向けに公開され、党の約束1つの進捗が可視化されている
+  summary: 政党トラッカーで党の約束1件の進捗を見える化
+  metrics:
+  - c: 0
+    t: 1
+    u: つ
+  status: 順調
+- id: kaihatsu-o1-kr4
+  k: KR4
+  text: まるみえで全12議員室の調研費が公開される
+  summary: 全12議員室の調研費をまる見え政治資金に公開する
+  metrics:
+  - c: 1
+    t: 12
+    u: 議員室
+  status: 順調

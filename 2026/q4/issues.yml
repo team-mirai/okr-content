@@ -1,184 +1,170 @@
 issues:
 - key: demo
   visual: cycle
-  lead: イシューA これは画面のレイアウトを確認するためのダミーテキストです。
+  lead: 政策立案や政党運営をデジタル民主主義のプロセスで進めます。
   groups:
   - key: listen
-    tag: グループ1
-    kicker: ラベル1
-    title: これは画面のレイアウトを確認するためのダミーテキストです。
+    tag: 聴く
+    title: できるだけ多くの人の声を集める
     krs:
-    - hq-a-o1-kr1
-    - hq-a-o2-kr1
-    - hq-a-o2-kr3
-    - hq-a-o3-kr2
-    - hq-a-o3-kr4
-    - hq-f-o2-kr3
+    - kocho-o1-kr1
+    - kocho-o2-kr1
+    - kocho-o2-kr3
+    - kocho-o3-kr2
+    - kocho-o3-kr4
+    - kaihatsu-o2-kr3
   - key: refine
-    tag: グループ2
-    kicker: ラベル2
-    title: これは画面のレイアウトを確認するためのダミーテキストです。
-    note: イシューA-G2 これは画面のレイアウトを確認するためのダミーテキストです。
+    tag: 磨く
+    title: 集まった声をもとに政策を磨く
     krs:
-    - hq-a-o1-kr2
-    - hq-a-o1-kr3
-    - hq-b-o2-kr2-1
-    - hq-b-o2-kr2-2
-    - hq-f-o2-kr1
-    - hq-f-o2-kr2
+    - kocho-o1-kr2
+    - kocho-o1-kr4
+    - seicho-o2-kr2-1
+    - seicho-o2-kr2-2
+    - kaihatsu-o2-kr1
+    - kaihatsu-o2-kr2
   - key: move
-    tag: グループ3
-    kicker: ラベル3
-    title: これは画面のレイアウトを確認するためのダミーテキストです。
-    note: イシューA-G3 これは画面のレイアウトを確認するためのダミーテキストです。
+    tag: 動かす
+    title: 国会と政府を動かす
     krs:
-    - hq-c-o1-kr1-1
-    - hq-d-o1-kr1
-    - hq-d-o1-kr2
-    - hq-c-o1-kr1-2
-    - hq-c-o1-kr1-3
-    - hq-f-o1-kr2
+    - kokutai-o1-kr1-1
+    - kokutai-o1-kr1-2
+    - kokutai-o1-kr1-3
+    - giin-o1-kr1
+    - giin-o1-kr2
+    - kaihatsu-o1-kr2
   - key: tell
-    tag: グループ4
-    kicker: ラベル4
-    title: イシューA-G4 これは画面のレイアウトを確認するためのダミーテキストです。
-    note: イシューA-G4 これは画面のレイアウトを確認するためのダミーテキストです。
+    tag: 伝える
+    title: 結果やプロセスを伝え、次の聴くにつなげる
     krs:
-    - hq-e-o4-kr4-1
-    - hq-e-o4-kr4-3
-    - hq-g-o3-kr3-3
-    - hq-e-o3-kr3-1
-    - hq-e-o3-kr3-2
-    - hq-e-o3-kr3-2b
+    - koho-o3-kr3-1
+    - koho-o3-kr3-2
+    - koho-o3-kr3-2b
+    - koho-o4-kr4-1
+    - koho-o4-kr4-3
+    - soshiki-o3-kr3-3
   - key: loop
-    tag: グループ5
-    kicker: ラベル5
-    title: これは画面のレイアウトを確認するためのダミーテキストです。
-    note: イシューA-G5 これは画面のレイアウトを確認するためのダミーテキストです。
+    tag: ループを回す
+    title: 聴くから伝えるまでを一周させる
     krs:
-    - hq-e-o4-kr4-2
-    - hq-a-o2-kr2
-    - hq-a-o1-kr4
-    - hq-a-o2-kr4
-    - hq-a-o3-kr3
+    - kocho-o1-kr3
+    - kocho-o2-kr2
+    - kocho-o2-kr4
+    - kocho-o3-kr3
+    - koho-o4-kr4-2
 - key: open
   visual: index
-  lead: イシューB これは画面のレイアウトを確認するためのダミーテキストです。実際の内容は後から差し替えます。
+  lead: ブラックボックスになった政治をオープンにする。結果だけでなく、その議論の過程や決め方まで、できる限り公開します。
   groups:
   - key: thinking
-    tag: グループ1
-    title: これは画面のレイアウトを確認するためのダミーテキストです。
-    note: イシューB-G1 これは画面のレイアウトを確認するためのダミーテキストです。
+    tag: 考え方をオープンに
+    title: 党が何を大事にしているかを見せる
     krs:
-    - hq-e-o2-kr2-1
-    - hq-e-o2-kr2-2
-    - hq-c-o2-kr2-2
-    - hq-b-o3-kr3-1
+    - seicho-o3-kr3-1
+    - kokutai-o2-kr2-2
+    - koho-o2-kr2-1
+    - koho-o2-kr2-2
   - key: debate
-    tag: グループ2
-    title: これは画面のレイアウトを確認するためのダミーテキストです。
-    note: イシューB-G2 これは画面のレイアウトを確認するためのダミーテキストです。実際の内容は後から差し替えます。
+    tag: 議論をオープンに
+    title: 結論に至るまでの話し合いを見せる
     krs:
-    - hq-b-o1-kr1-2
-    - hq-e-o1-kr1-1
-    - hq-e-o1-kr1-2
-    - hq-a-o3-kr1
+    - kocho-o3-kr1
+    - seicho-o1-kr1-2
+    - koho-o1-kr1-1
+    - koho-o1-kr1-2
     sim:
-    - - hq-b-o1-kr1-2
-      - hq-e-o1-kr1-1
+    - - seicho-o1-kr1-2
+      - koho-o1-kr1-1
   - key: decision
-    tag: グループ3
-    title: イシューB-G3 これは画面のレイアウトを確認するためのダミーテキストです。
-    note: イシューB-G3 これは画面のレイアウトを確認するためのダミーテキストです。実際の内容は後から差し替えます。
+    tag: 意思決定をオープンに
+    title: 何を決めたか、なぜそう決めたかを見せる
     krs:
-    - hq-b-o1-kr1-1
-    - hq-c-o2-kr2-1
-    - hq-f-o1-kr1
-    - hq-b-o3-kr3-2
+    - seicho-o1-kr1-1
+    - kokutai-o2-kr2-1
+    - kaihatsu-o1-kr1
+    - seicho-o3-kr3-2
     sim:
-    - - hq-b-o1-kr1-1
-      - hq-c-o2-kr2-1
-      - hq-f-o1-kr1
+    - - seicho-o1-kr1-1
+      - kokutai-o2-kr2-1
+      - kaihatsu-o1-kr1
   - key: activity
-    tag: グループ4
-    title: これは画面のレイアウトを確認するためのダミーテキストです。
-    note: イシューB-G4 これは画面のレイアウトを確認するためのダミーテキストです。
+    tag: 活動をオープンに
+    title: 議員と党がどう動いているかを見せる
     krs:
-    - hq-c-o2-kr2-3
-    - hq-d-o1-kr4
-    - hq-d-o1-kr3
-    - hq-f-o1-kr3
+    - kokutai-o2-kr2-3
+    - giin-o1-kr3
+    - giin-o1-kr4
+    - kaihatsu-o1-kr3
   - key: money
-    tag: グループ5
-    title: これは画面のレイアウトを確認するためのダミーテキストです。
-    note: イシューB-G5 これは画面のレイアウトを確認するためのダミーテキストです。
+    tag: お金をオープンに
+    title: 政治のお金の使い道を見せる
     krs:
-    - hq-f-o1-kr4
-    - hq-i-o1-kr4
+    - kaihatsu-o1-kr4
+    - jimu-o1-kr4
+    - jimu-o1-kr6
     sim:
-    - - hq-f-o1-kr4
-      - hq-i-o1-kr4
+    - - kaihatsu-o1-kr4
+      - jimu-o1-kr4
 - key: org
   visual: index
-  lead: イシューC これは画面のレイアウトを確認するためのダミーテキストです。実際の内容は後から差し替えます。
+  lead: 互いにフィードバックし合う。あわせて、お金・事務・情報・技術といった党の土台を整えます。
   groups:
   - key: feedback
-    tag: グループ1
-    title: これは画面のレイアウトを確認するためのダミーテキストです。
+    tag: 成長する仕組み
+    title: 互いにフィードバックし合う
     krs:
-    - hq-h-o3-kr3-1
-    - hq-h-o3-kr3-2
-    - hq-h-o3-kr3-3
+    - jinji-o3-kr3-1
+    - jinji-o3-kr3-2
+    - jinji-o3-kr3-3
   - key: supporters
-    tag: グループ2
-    title: これは画面のレイアウトを確認するためのダミーテキストです。
-    note: イシューC-G2 これは画面のレイアウトを確認するためのダミーテキストです。実際の内容は後から差し替えます。
+    tag: サポーター・党員
+    title: 支援者を巻き込む仕組みをつくる
     krs:
-    - hq-g-o1-kr1-1
-    - hq-g-o2-kr2-1
-    - hq-g-o2-kr2-2
-    - hq-g-o3-kr3-1
-    - hq-g-o3-kr3-2
+    - soshiki-o1-kr1-1
+    - soshiki-o2-kr2-1
+    - soshiki-o2-kr2-2
+    - soshiki-o3-kr3-1
+    - soshiki-o3-kr3-2
   - key: admin
-    tag: グループ3
-    title: これは画面のレイアウトを確認するためのダミーテキストです。
+    tag: 事務・総務
+    title: お金と事務を止めない
     krs:
-    - hq-i-o1-kr1
-    - hq-i-o1-kr2
-    - hq-i-o1-kr3
-    - hq-i-o1-kr5
-    - hq-i-o3-kr1
-    - hq-i-o3-kr2
-    - hq-f-o3-kr3
+    - kaihatsu-o3-kr3
+    - jimu-o1-kr1
+    - jimu-o1-kr2
+    - jimu-o1-kr3
+    - jimu-o1-kr5
+    - jimu-o3-kr1
+    - jimu-o3-kr2
   - key: infosec
-    tag: グループ4
-    title: これは画面のレイアウトを確認するためのダミーテキストです。
+    tag: 情報管理
+    title: 情報を守る仕組みをつくる
     brief: true
     krs:
-    - hq-i-o2-kr1
-    - hq-i-o2-kr2
-    - hq-i-o2-kr3
+    - jimu-o2-kr1
+    - jimu-o2-kr2
+    - jimu-o2-kr3
   - key: platform
-    tag: グループ5
-    title: これは画面のレイアウトを確認するためのダミーテキストです。
+    tag: 技術基盤
+    title: プロダクトの土台を整える
     krs:
-    - hq-f-o3-kr1
-    - hq-f-o3-kr2
+    - kaihatsu-o3-kr1
+    - kaihatsu-o3-kr2
 - key: talent
   visual: index
-  lead: イシューD これは画面のレイアウトを確認するためのダミーテキストです。実際の内容は後から差し替えます。
+  lead: 本部長候補と各本部に必要な人を計画的に迎え、次の選挙に立つ候補者を見つけて準備する。
   groups:
   - key: staff
-    tag: グループ1
-    title: イシューD-G1 これは画面のレイアウトを確認するためのダミーテキストです。
+    tag: 採用強化
+    title: 本部長候補と、各本部に必要な人を迎える
     krs:
-    - hq-h-o1-kr1-1
-    - hq-h-o1-kr1-2
-    - hq-h-o2-kr2
+    - jinji-o1-kr1-1
+    - jinji-o1-kr1-2
+    - jinji-o2-kr2
   - key: election
-    tag: グループ2
-    title: これは画面のレイアウトを確認するためのダミーテキストです。
+    tag: 選挙対策
+    title: 次の選挙の候補者を見つけ、準備する
     krs:
-    - hq-j-o1-kr1
-    - hq-j-o1-kr2
-    - hq-j-o1-kr3
+    - senkyo-o1-kr1
+    - senkyo-o1-kr2
+    - senkyo-o1-kr3
