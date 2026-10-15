@@ -1,0 +1,34 @@
+hq: senkyo
+id: senkyo-o1
+label: O1
+copy: 最高の候補者を探し出す
+objective:
+- 新しい最高の候補者を集め、適時公表できている
+krs:
+- id: senkyo-o1-kr1
+  k: KR1
+  text: 地方選候補者候補の公表が0〜3人完了している
+  summary: 地方選の候補者候補を0〜3名公表する
+  metrics:
+  - c: 1
+    t: 3
+    u: 人
+  status: 達成
+- id: senkyo-o1-kr2
+  k: KR2
+  text: 候補者候補の選挙準備ができている（のぼり、発信体制、チラシ、戦略等）
+  summary: 候補者候補の選挙準備（のぼり・発信体制・チラシ・戦略）を整える
+  metrics:
+  - c: 0
+    t: 1
+    u: 件
+  status: 順調
+- id: senkyo-o1-kr3
+  k: KR3
+  text: 次期国政選挙に擁立可能性がある方の採用が1人以上できている
+  summary: 次の国政選挙に擁立できる可能性のある人を採用する
+  metrics:
+  - c: 0
+    t: 1
+    u: 人
+  status: 順調

@@ -1,0 +1,16 @@
+hq: soshiki
+id: soshiki-o1
+label: O1
+copy: 声を聴きながら新たな組織活動へ
+objective:
+- （最重要）破フェーズへの方針転換について、サポーターの声を聴き、決定と理由を説明した状態で方針転換が完了している
+krs:
+- id: soshiki-o1-kr1-1
+  k: KR1-1
+  text: AIインタビューを活用するデジタル民主主義的な手法で転換を完遂する
+  summary: AIインタビューとデジタル民主主義的な手法を用いて、方針転換を完遂
+  metrics:
+  - c: 1
+    t: 1
+    u: 件
+  status: 達成

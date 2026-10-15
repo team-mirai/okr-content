@@ -1,0 +1,37 @@
+hq: kaihatsu
+id: kaihatsu-o3
+label: O3
+copy: 定量的に改善できる仕組みをつくる
+objective:
+- 定量的に測りながら改善にいかせる技術的な基盤が整っている
+krs:
+- id: kaihatsu-o3-kr1
+  k: KR1
+  text: みらいいぬのコストを7月比1/5に抑えつつ、党内の総利用トークン数を7月比2倍にし、その上でみらいいぬの満足度を維持している
+  summary: 党内AIの満足度を保ちながら、コストを1/5に抑え、利用量を2倍に
+  metrics:
+  - c: 未着手
+    t: 1/5
+    l: コスト（7月比）
+  - c: 未着手
+    t: 2倍
+    l: 総利用トークン（7月比）
+  status: 順調
+- id: kaihatsu-o3-kr2
+  k: KR2
+  text: 全プロダクトのUU（＝ブラウザ数）の定義と計測が始まり、月次で数字が出ている
+  summary: 全プロダクトのUUを定義し、毎月計測する
+  metrics:
+  - c: 未着手
+    t: 3
+    u: 回
+  status: 未着手
+- id: kaihatsu-o3-kr3
+  k: KR3
+  text: チームみらいプロダクトの共通アカウント基盤とメール通知の基盤が整っている
+  summary: 共通アカウント基盤とメール通知基盤を整える
+  metrics:
+  - c: 未着手
+    t: 1
+    u: 件
+  status: 未着手

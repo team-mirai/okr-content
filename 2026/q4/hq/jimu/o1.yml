@@ -1,0 +1,64 @@
+hq: jimu
+id: jimu-o1
+label: O1
+copy: 予実管理とまる見え更新
+objective:
+- (経理部)予実管理とみらいまる見え更新が党内で回っている
+krs:
+- id: jimu-o1-kr1
+  k: KR1
+  text: 支払い漏れゼロ
+  summary: 支払い漏れをゼロにする
+  notes:
+  - 3Qまでは減ってはいるものの月数件あったので、支払いルール整備と仕組み化でゼロを目指す
+  metrics:
+  - c: 0
+    t: 0
+    u: 件
+    cmp: ≦
+  status: 順調
+- id: jimu-o1-kr2
+  k: KR2
+  text: 後援会の整理完了
+  summary: 後援会の整理を完了する
+  metrics:
+  - c: 0
+    t: 1
+    u: 件
+  status: 順調
+- id: jimu-o1-kr3
+  k: KR3
+  text: 予実管理の監視の月次運転3回(9~11月）
+  summary: 予実管理の監視を、月次で3回回す
+  metrics:
+  - c: 未着手
+    t: 3
+    u: 回
+  status: 順調
+- id: jimu-o1-kr4
+  k: KR4
+  text: 調査研究広報滞在費の四半期公開の初回全議員室対応完了
+  summary: 議員室の調研費について、初回の公開を完了する
+  metrics:
+  - c: 1
+    t: 12
+    u: 件
+  status: 順調
+- id: jimu-o1-kr5
+  k: KR5
+  text: 契約整備・管理化完了
+  summary: 契約を整備し、管理できる状態にする
+  metrics:
+  - c: 0
+    t: 1
+    u: 件
+  status: 順調
+- id: jimu-o1-kr6
+  k: KR6
+  text: 政党のお金をまる見え政治資金にて月１更新
+  summary: 政党のお金を、まる見え政治資金で毎月更新する
+  metrics:
+  - c: 0
+    t: 3
+    u: 回
+  status: 注意
