@@ -25,7 +25,7 @@ krs:
   status: 未着手
 - id: kaihatsu-o2-kr3
   k: KR3
-  text: みらいSNSの要件定義・ワイヤーが揃し27年1Qにα開発へ着手できる状態となっている
+  text: みらいSNSの要件定義・ワイヤーが揃い27年1Qにα開発へ着手できる状態となっている
   summary: みらいSNSの要件定義とワイヤーを作成する
   metrics:
   - c: 未着手
