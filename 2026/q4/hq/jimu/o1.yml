@@ -1,6 +1,6 @@
 hq: jimu
 id: jimu-o1
-label: O1
+label: O1 経理部
 copy: 予実管理とまる見え更新
 objective:
 - (経理部)予実管理とみらいまる見え更新が党内で回っている
@@ -21,10 +21,7 @@ krs:
   k: KR2
   text: 後援会の整理完了
   summary: 後援会の整理を完了する
-  metrics:
-  - c: 0
-    t: 1
-    u: 件
+  goal_word: 完了
   status: 順調
 - id: jimu-o1-kr3
   k: KR3
@@ -48,10 +45,7 @@ krs:
   k: KR5
   text: 契約整備・管理化完了
   summary: 契約を整備し、管理できる状態にする
-  metrics:
-  - c: 0
-    t: 1
-    u: 件
+  goal_word: 完了
   status: 順調
 - id: jimu-o1-kr6
   k: KR6

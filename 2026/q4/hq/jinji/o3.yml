@@ -9,10 +9,7 @@ krs:
   k: KR3-1
   text: peer feedbackを行う仕組み、ベストプラクティスを考えて、党内アナウンスをする
   summary: お互いにフィードバックしあう仕組みを設計し、党内に知らせる
-  metrics:
-  - c: 未着手
-    t: 1
-    u: 件
+  goal_word: アナウンス
   status: 未着手
 - id: jinji-o3-kr3-2
   k: KR3-2

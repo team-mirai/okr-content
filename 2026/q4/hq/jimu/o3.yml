@@ -1,6 +1,6 @@
 hq: jimu
 id: jimu-o3
-label: O3
+label: O3 総務
 copy: 総務タスクを脱属人化
 objective:
 - (総務)担当者が2週間抜けても、総務部が止まらない状態を目指す（脱属人化）
@@ -9,10 +9,7 @@ krs:
   k: KR1
   text: 総務部のタスク可視化
   summary: 総務部のタスクを見える化する
-  metrics:
-  - c: 0
-    t: 1
-    u: 件
+  goal_word: 完了
   status: 順調
 - id: jimu-o3-kr2
   k: KR2

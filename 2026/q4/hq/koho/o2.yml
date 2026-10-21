@@ -9,10 +9,7 @@ krs:
   k: KR2-1
   text: デジタル民主主義を解説するLPを公開する
   summary: デジタル民主主義を解説するwebサイトを公開する
-  metrics:
-  - c: 未着手
-    t: 1
-    u: 件
+  goal_word: 公開
   status: 未着手
 - id: koho-o2-kr2-2
   k: KR2-2
@@ -20,6 +17,6 @@ krs:
   summary: 地域活動・視察・党議拘束の考え方について発信する
   metrics:
   - c: 未着手
-    t: 1
-    u: 件
+    t: 3
+    u: テーマ
   status: 未着手

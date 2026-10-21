@@ -7,15 +7,12 @@ objective:
 krs:
 - id: seicho-o3-kr3-1
   k: KR3-1
-  text: マニフェスト改訂2026 Ver1.0 を公開する
-  summary: マニフェスト改訂版を公開する
+  text: マニフェスト2026 Ver2.0 を公開する
+  summary: マニフェスト2026 Ver2.0を公開する
   notes:
   - マニフェストは修正提案をどのように受け止めたかを説明できるようにする
   - 公開に向けて「党内政策論点整理集」のβ版を作る
-  metrics:
-  - c: 未着手
-    t: 1
-    u: 件
+  goal_word: 公開
   status: 未着手
 - id: seicho-o3-kr3-2
   k: KR3-2
@@ -27,4 +24,4 @@ krs:
   - c: 0
     t: 100
     u: '%'
-  status: 注意
+  status: 順調

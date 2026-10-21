@@ -30,7 +30,7 @@ krs:
   metrics:
   - c: 0
     t: 1
-    u: つ
+    u: 件
   status: 順調
 - id: kaihatsu-o1-kr4
   k: KR4
@@ -39,5 +39,5 @@ krs:
   metrics:
   - c: 1
     t: 12
-    u: 議員室
+    u: 室
   status: 順調
