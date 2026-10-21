@@ -14,24 +14,19 @@ krs:
     t: 1/5
     l: コスト（7月比）
   - c: 未着手
-    t: 2倍
-    l: 総利用トークン（7月比）
+    t: 2
+    u: 倍
+    l: 利用（7月比）
   status: 順調
 - id: kaihatsu-o3-kr2
   k: KR2
   text: 全プロダクトのUU（＝ブラウザ数）の定義と計測が始まり、月次で数字が出ている
   summary: 全プロダクトのUUを定義し、毎月計測する
-  metrics:
-  - c: 未着手
-    t: 3
-    u: 回
+  goal_word: 計測開始
   status: 未着手
 - id: kaihatsu-o3-kr3
   k: KR3
   text: チームみらいプロダクトの共通アカウント基盤とメール通知の基盤が整っている
   summary: 共通アカウント基盤とメール通知基盤を整える
-  metrics:
-  - c: 未着手
-    t: 1
-    u: 件
+  goal_word: 完了
   status: 未着手

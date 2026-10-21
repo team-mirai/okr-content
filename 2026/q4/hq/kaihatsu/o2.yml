@@ -9,10 +9,7 @@ krs:
   k: KR1
   text: みらい版Polisを本番公開し、論点投票×AIインタビューで意見グループを構造化できるようにする
   summary: 異なる意見を可視化するみらい版Polisを公開する
-  metrics:
-  - c: 0
-    t: 1
-    u: 件
+  goal_word: 公開
   status: 順調
 - id: kaihatsu-o2-kr2
   k: KR2
@@ -27,8 +24,5 @@ krs:
   k: KR3
   text: みらいSNSの要件定義・ワイヤーが揃い27年1Qにα開発へ着手できる状態となっている
   summary: みらいSNSの要件定義とワイヤーを作成する
-  metrics:
-  - c: 未着手
-    t: 1
-    u: 件
+  goal_word: 完了
   status: 未着手

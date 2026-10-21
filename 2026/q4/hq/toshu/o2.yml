@@ -1,0 +1,16 @@
+hq: toshu
+id: toshu-o2
+label: O2
+copy: ミッションとOKRを党の共通言語にする
+objective:
+- 党のミッション・OKRが共通言語として党内に浸透し、党全体でOKRや計画に則った活動ができている
+krs:
+- id: toshu-o2-kr1
+  k: KR1
+  text: 月次OKRレビューの連続達成（10〜12月）
+  summary: 月次OKRレビューの連続達成（10〜12月）
+  metrics:
+  - c: 0
+    t: 3
+    u: 回
+  status: 順調

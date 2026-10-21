@@ -1,0 +1,19 @@
+hq: toshu
+id: toshu-o1
+label: O1
+copy: 党員・寄付者向けの対応を担う組織が立ち上がる
+objective:
+- 党員・寄付者向けの対応を担う組織が立ち上がる
+krs:
+- id: toshu-o1-kr1
+  k: KR1
+  text: 党員及び寄付者に対する定常アクションを整理して運用にのせる
+  summary: 党員及び寄付者に対する定常アクションを整理して運用にのせる
+  goal_word: 運用開始
+  status: 未着手
+- id: toshu-o1-kr2
+  k: KR2
+  text: 2027年党大会の準備に向けた組織を立ち上げる
+  summary: 2027年党大会の準備に向けた組織を立ち上げる
+  goal_word: 立ち上げ
+  status: 未着手

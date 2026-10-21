@@ -1,6 +1,6 @@
 hq: jimu
 id: jimu-o2
-label: O2
+label: O2 情シス
 copy: 情報管理の土台ver0.1をつくる
 objective:
 - (情シス)情報管理のための制度の全体ver0.1を作りきる
@@ -16,23 +16,17 @@ krs:
   metrics:
   - c: 未着手
     t: 3
-    u: 件
+    u: 本
   status: 未着手
 - id: jimu-o2-kr2
   k: KR2
   text: デジタル民主主義のための情報管理ガイドライン ver0.1の完成
   summary: デジタル民主主義のための情報管理ガイドライン ver0.1を完成させる
-  metrics:
-  - c: 0
-    t: 1
-    u: 件
+  goal_word: 完成
   status: 順調
 - id: jimu-o2-kr3
   k: KR3
   text: インシデント対応ガイドライン作成 ver0.1の完成
   summary: インシデント対応ガイドライン ver0.1を完成させる
-  metrics:
-  - c: 未着手
-    t: 1
-    u: 件
+  goal_word: 完成
   status: 未着手

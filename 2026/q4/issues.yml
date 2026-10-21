@@ -5,6 +5,7 @@ issues:
   groups:
   - key: listen
     tag: 聴く
+    kicker: サイクル 1
     title: できるだけ多くの人の声を集める
     krs:
     - kocho-o1-kr1
@@ -15,43 +16,51 @@ issues:
     - kaihatsu-o2-kr3
   - key: refine
     tag: 磨く
+    kicker: サイクル 2
     title: 集まった声をもとに政策を磨く
+    note: 意見と熟議の仕組みを使って、政策案や法案への態度を見直す。
     krs:
     - kocho-o1-kr2
-    - kocho-o1-kr4
+    - kocho-o1-kr3
     - seicho-o2-kr2-1
     - seicho-o2-kr2-2
     - kaihatsu-o2-kr1
     - kaihatsu-o2-kr2
   - key: move
     tag: 動かす
-    title: 国会と政府を動かす
+    kicker: サイクル 3
+    title: 磨いた政策で、国会や社会を動かす
+    note: 質疑・法案修正・附帯決議・議員立法で、国会に成果を残す。
     krs:
     - kokutai-o1-kr1-1
-    - kokutai-o1-kr1-2
-    - kokutai-o1-kr1-3
     - giin-o1-kr1
     - giin-o1-kr2
+    - kokutai-o1-kr1-2
+    - kokutai-o1-kr1-3
     - kaihatsu-o1-kr2
   - key: tell
     tag: 伝える
+    kicker: サイクル 4
     title: 結果やプロセスを伝え、次の聴くにつなげる
+    note: コンテンツや「返し」で届け、触れた人が参加するまでの道筋をつくる。
     krs:
-    - koho-o3-kr3-1
-    - koho-o3-kr3-2
-    - koho-o3-kr3-2b
     - koho-o4-kr4-1
     - koho-o4-kr4-3
     - soshiki-o3-kr3-3
+    - koho-o3-kr3-1
+    - koho-o3-kr3-2
+    - koho-o3-kr3-2b
   - key: loop
     tag: ループを回す
+    kicker: サイクル全体
     title: 聴くから伝えるまでを一周させる
+    note: 一つのテーマで最後まで完走し、場と道具を改善しながら回し続ける。
     krs:
-    - kocho-o1-kr3
+    - koho-o4-kr4-2
     - kocho-o2-kr2
+    - kocho-o1-kr4
     - kocho-o2-kr4
     - kocho-o3-kr3
-    - koho-o4-kr4-2
 - key: open
   visual: index
   lead: ブラックボックスになった政治をオープンにする。結果だけでなく、その議論の過程や決め方まで、できる限り公開します。
@@ -59,25 +68,28 @@ issues:
   - key: thinking
     tag: 考え方をオープンに
     title: 党が何を大事にしているかを見せる
+    note: デジタル民主主義とは何か、地域活動・視察・党議拘束をどう考えているかを伝える。
     krs:
-    - seicho-o3-kr3-1
-    - kokutai-o2-kr2-2
     - koho-o2-kr2-1
     - koho-o2-kr2-2
+    - kokutai-o2-kr2-2
+    - seicho-o3-kr3-1
   - key: debate
     tag: 議論をオープンに
     title: 結論に至るまでの話し合いを見せる
+    note: 法案を話し合う会議や賛否の過程、決める前の有識者への聞き取り、集まった国民の声も公開する。
     krs:
-    - kocho-o3-kr1
     - seicho-o1-kr1-2
     - koho-o1-kr1-1
     - koho-o1-kr1-2
+    - kocho-o3-kr1
     sim:
     - - seicho-o1-kr1-2
       - koho-o1-kr1-1
   - key: decision
     tag: 意思決定をオープンに
     title: 何を決めたか、なぜそう決めたかを見せる
+    note: すべての法案の賛否と根拠を示し、判断のよりどころになるマニフェストと目的関数も公開する。
     krs:
     - seicho-o1-kr1-1
     - kokutai-o2-kr2-1
@@ -90,14 +102,16 @@ issues:
   - key: activity
     tag: 活動をオープンに
     title: 議員と党がどう動いているかを見せる
+    note: 国会での行動規範や、議員に期待する役割、党の約束の進み具合を公開する。
     krs:
     - kokutai-o2-kr2-3
-    - giin-o1-kr3
     - giin-o1-kr4
+    - giin-o1-kr3
     - kaihatsu-o1-kr3
   - key: money
     tag: お金をオープンに
     title: 政治のお金の使い道を見せる
+    note: 議員の調査研究広報滞在費と、政党のお金の使い道を公開する。
     krs:
     - kaihatsu-o1-kr4
     - jimu-o1-kr4
@@ -119,23 +133,32 @@ issues:
   - key: supporters
     tag: サポーター・党員
     title: 支援者を巻き込む仕組みをつくる
+    note: サポーターが主催する場を増やし、自宅でできる活動メニューとポイントで、アクションボードからの参加を増やす。
     krs:
     - soshiki-o1-kr1-1
     - soshiki-o2-kr2-1
     - soshiki-o2-kr2-2
     - soshiki-o3-kr3-1
     - soshiki-o3-kr3-2
+    - toshu-o1-kr1
+  - key: ops
+    tag: 党運営
+    title: 党の運営を回す
+    note: 党大会に向けた組織を立ち上げ、毎月のOKRレビューを続ける。
+    krs:
+    - toshu-o1-kr2
+    - toshu-o2-kr1
   - key: admin
     tag: 事務・総務
     title: お金と事務を止めない
     krs:
-    - kaihatsu-o3-kr3
     - jimu-o1-kr1
     - jimu-o1-kr2
     - jimu-o1-kr3
     - jimu-o1-kr5
     - jimu-o3-kr1
     - jimu-o3-kr2
+    - kaihatsu-o3-kr3
   - key: infosec
     tag: 情報管理
     title: 情報を守る仕組みをつくる

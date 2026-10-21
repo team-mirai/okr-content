@@ -9,19 +9,16 @@ krs:
   k: KR4-1
   text: 10月中にAI失業関連で最初のコンテンツを出す
   summary: AI失業をテーマにした最初のコンテンツを10月中に出す
-  metrics:
-  - c: 0
-    t: 1
-    u: 件
+  goal_word: 公開
   status: 注意
 - id: koho-o4-kr4-2
   k: KR4-2
-  text: 作品から上映会・AIインタビュー等の広聴までを一周させ、実際に意見を集める
-  summary: 作品から上映会・AIインタビューまで一周させ、意見を集める
+  text: コンテンツから上映会・AIインタビュー等の広聴までを一周させ、実際に意見を集める
+  summary: コンテンツから上映会・AIインタビューまで一周させ、意見を集める
   metrics:
   - c: 未着手
     t: 1
-    u: 件
+    u: 周
   status: 未着手
 - id: koho-o4-kr4-3
   k: KR4-3
