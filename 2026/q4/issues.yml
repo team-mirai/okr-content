@@ -14,6 +14,20 @@ issues:
     - kocho-o3-kr2
     - kocho-o3-kr4
     - kaihatsu-o2-kr3
+    - anno-o1-kr1-1
+    - usami-o1-kr1-1
+    - usami-o2-kr2-1
+    - usami-o2-kr2-4
+    - kawai-o1-kr1-1
+    - kawai-o2-kr2-1
+    - hayashi-o1-kr1-1
+    - suda-o1-kr1-1
+    - muto-o1-kr1-1
+    - dobashi-o1-kr1-1
+    - yamada-o1-kr1-1
+    - takayama-o1-kr1-1
+    - mineshima-o1-kr1-1
+    - mineshima-o1-kr1-2
   - key: refine
     tag: 磨く
     kicker: サイクル 2
@@ -26,6 +40,16 @@ issues:
     - seicho-o2-kr2-2
     - kaihatsu-o2-kr1
     - kaihatsu-o2-kr2
+    - anno-o1-kr1-2
+    - hayashi-o1-kr1-2
+    - hayashi-o3-kr3-1
+    - hayashi-o3-kr3-2
+    - suda-o2-kr2-1
+    - kobayashi-o1-kr1-2
+    - dobashi-o1-kr1-2
+    - yamada-o1-kr1-2
+    - yamada-o3-kr3-1
+    - takayama-o1-kr1-2
   - key: move
     tag: 動かす
     kicker: サイクル 3
@@ -38,6 +62,29 @@ issues:
     - kokutai-o1-kr1-2
     - kokutai-o1-kr1-3
     - kaihatsu-o1-kr2
+    - anno-o1-kr1-3
+    - usami-o1-kr1-2
+    - usami-o2-kr2-2
+    - kawai-o1-kr1-2
+    - kawai-o2-kr2-2
+    - hayashi-o1-kr1-3
+    - hayashi-o2-kr2-1
+    - hayashi-o2-kr2-2
+    - suda-o1-kr1-2
+    - muto-o1-kr1-2
+    - muto-o2-kr2-3
+    - muto-o3-kr3-1
+    - kobayashi-o1-kr1-3
+    - dobashi-o1-kr1-3
+    - yamada-o1-kr1-3
+    - yamada-o3-kr3-2
+    - takayama-o1-kr1-3
+    - takayama-o2-kr2-1
+    - takayama-o2-kr2-2
+    - takayama-o2-kr2-3
+    - mineshima-o1-kr1-3
+    - furukawa-o1-kr1-1
+    - furukawa-o1-kr1-2
   - key: tell
     tag: 伝える
     kicker: サイクル 4
@@ -50,8 +97,32 @@ issues:
     - koho-o3-kr3-1
     - koho-o3-kr3-2
     - koho-o3-kr3-2b
+    - usami-o1-kr1-3
+    - usami-o2-kr2-3
+    - kawai-o1-kr1-3
+    - kawai-o2-kr2-3
+    - kawai-o2-kr2-4
+    - kawai-o3-kr3-1
+    - kawai-o3-kr3-2
+    - kawai-o3-kr3-3
+    - kawai-o3-kr3-4
+    - hayashi-o1-kr1-4
+    - suda-o1-kr1-3
+    - suda-o1-kr1-4
+    - muto-o1-kr1-3
+    - kobayashi-o1-kr1-1
+    - kobayashi-o2-kr2-2
+    - dobashi-o1-kr1-4
+    - yamada-o1-kr1-4
+    - takayama-o1-kr1-4
+    - takayama-o3-kr3-1
+    - takayama-o3-kr3-3
+    - mineshima-o1-kr1-4
+    - mineshima-o3-kr3-3
+    - mineshima-o3-kr3-4
+    - furukawa-o1-kr1-3
   - key: loop
-    tag: ループを回す
+    tag: サイクルを回す
     kicker: サイクル全体
     title: 聴くから伝えるまでを一周させる
     note: 一つのテーマで最後まで完走し、場と道具を改善しながら回し続ける。
@@ -61,6 +132,12 @@ issues:
     - kocho-o1-kr4
     - kocho-o2-kr4
     - kocho-o3-kr3
+    - anno-o2-kr2-3
+    - suda-o1-kr1-5
+    - muto-o2-kr2-1
+    - muto-o2-kr2-2
+    - dobashi-o2-kr2-1
+    - dobashi-o2-kr2-2
 - key: open
   visual: index
   lead: ブラックボックスになった政治をオープンにする。結果だけでなく、その議論の過程や決め方まで、できる限り公開します。
@@ -74,6 +151,9 @@ issues:
     - koho-o2-kr2-2
     - kokutai-o2-kr2-2
     - seicho-o3-kr3-1
+    - hayashi-o2-kr2-3
+    - takayama-o3-kr3-2
+    - mineshima-o3-kr3-2
   - key: debate
     tag: 議論をオープンに
     title: 結論に至るまでの話し合いを見せる
@@ -95,6 +175,8 @@ issues:
     - kokutai-o2-kr2-1
     - kaihatsu-o1-kr1
     - seicho-o3-kr3-2
+    - mineshima-o2-kr2-2
+    - mineshima-o3-kr3-1
     sim:
     - - seicho-o1-kr1-1
       - kokutai-o2-kr2-1
@@ -108,6 +190,9 @@ issues:
     - giin-o1-kr4
     - giin-o1-kr3
     - kaihatsu-o1-kr3
+    - anno-o2-kr2-4
+    - mineshima-o2-kr2-1
+    - mineshima-o2-kr2-3
   - key: money
     tag: お金をオープンに
     title: 政治のお金の使い道を見せる
@@ -141,6 +226,8 @@ issues:
     - soshiki-o3-kr3-1
     - soshiki-o3-kr3-2
     - toshu-o1-kr1
+    - kobayashi-o2-kr2-1
+    - kobayashi-o2-kr2-3
   - key: ops
     tag: 党運営
     title: 党の運営を回す
@@ -148,6 +235,15 @@ issues:
     krs:
     - toshu-o1-kr2
     - toshu-o2-kr1
+    - anno-o2-kr2-1
+    - kobayashi-o2-kr2-4
+    - yamada-o2-kr2-1
+    - yamada-o2-kr2-2
+    - furukawa-o2-kr2-1
+    - furukawa-o2-kr2-2
+    - furukawa-o2-kr2-3
+    - furukawa-o3-kr3-1
+    - furukawa-o3-kr3-2
   - key: admin
     tag: 事務・総務
     title: お金と事務を止めない
@@ -184,6 +280,7 @@ issues:
     - jinji-o1-kr1-1
     - jinji-o1-kr1-2
     - jinji-o2-kr2
+    - anno-o2-kr2-2
   - key: election
     tag: 選挙対策
     title: 次の選挙の候補者を見つけ、準備する

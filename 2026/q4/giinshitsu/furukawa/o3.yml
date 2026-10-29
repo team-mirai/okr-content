@@ -6,11 +6,13 @@ copy: AIで議員室運営の型をつくる
 objective:
   - 議員室の業務にAIを活用し、効率的な議員室運営の型を作る
 krs:
-  - k: KR3-1
+  - id: furukawa-o3-kr3-1
+    k: KR3-1
     text: 業務のマニュアル化・自動化を進める
     summary: 議員室の業務をマニュアル化・自動化する
-    status: 未達成
-  - k: KR3-2
+    status: 未着手
+  - id: furukawa-o3-kr3-2
+    k: KR3-2
     text: 古川議員室以外の議員・秘書・党職員に横展開する事例を1件以上作る
     summary: 他の議員室や党職員に広げた事例を1件以上つくる
-    status: 未達成
+    status: 未着手

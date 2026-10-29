@@ -6,19 +6,23 @@ copy: 広報本部のOKRを達成する
 objective:
   - 広報本部長として、広報本部の4Q OKRをそのまま持つ
 krs:
-  - k: KR3-1
+  - id: mineshima-o3-kr3-1
+    k: KR3-1
     text: 党内の意思決定プロセスを透明にする（広報本部O1）
     summary: 党内の意思決定プロセスを透明にする
-    status: 未達成
-  - k: KR3-2
+    status: 未着手
+  - id: mineshima-o3-kr3-2
+    k: KR3-2
     text: ビジョンや考え方を発信する（広報本部O2）
     summary: ビジョンや考え方を発信する
-    status: 未達成
-  - k: KR3-3
+    status: 未着手
+  - id: mineshima-o3-kr3-3
+    k: KR3-3
     text: 参加までの導線をつくり、詰まっている区間を改善する（広報本部O3）
     summary: 参加までの導線をつくり、詰まりを改善する
-    status: 未達成
-  - k: KR3-4
+    status: 未着手
+  - id: mineshima-o3-kr3-4
+    k: KR3-4
     text: メディアPJを立ち上げる（広報本部O4）
     summary: メディアPJを立ち上げる
-    status: 未達成
+    status: 未着手
