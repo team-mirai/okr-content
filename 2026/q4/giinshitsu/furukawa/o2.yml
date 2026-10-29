@@ -2,14 +2,19 @@ office: furukawa
 id: furukawa-o2
 label: O2
 kind: party
-copy: 幹事長・議員本部長として党OKR・議員室OKRの達成を図る
+copy: 幹事長・議員本部長として、党と議員室のOKR達成を支える
+objective:
+  - 幹事長・議員本部長として党OKR・議員室OKRの達成を図る
 krs:
   - k: KR2-1
     text: （幹事長として）全体MTGの場などを活用し、全体の進捗を把握するとともに、OKRの運用体制を随時改善する
+    summary: 全体の進捗を把握し、OKRの運用を改善し続ける
     status: 未達成
   - k: KR2-2
     text: （議員本部長として）各議員室にOKRの運用ルールを浸透させる
+    summary: 各議員室にOKRの運用ルールを浸透させる
     status: 未達成
   - k: KR2-3
     text: （議員本部長として）議員室の稼働状況や業務量を把握し、採用や配属、業務量を調整することでOKR達成に近づける
+    summary: 議員室の業務量を調整し、OKR達成を後押しする
     status: 未達成
