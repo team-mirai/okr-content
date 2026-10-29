@@ -1,0 +1,18 @@
+office: mineshima
+id: mineshima-o3
+label: O3
+kind: party
+copy: 広報本部長として、広報本部の4Q OKRをそのまま持つ
+krs:
+  - k: KR3-1
+    text: 党内の意思決定プロセスを透明にする（広報本部O1）
+    status: 未達成
+  - k: KR3-2
+    text: ビジョンや考え方を発信する（広報本部O2）
+    status: 未達成
+  - k: KR3-3
+    text: 参加までの導線をつくり、詰まっている区間を改善する（広報本部O3）
+    status: 未達成
+  - k: KR3-4
+    text: メディアPJを立ち上げる（広報本部O4）
+    status: 未達成
