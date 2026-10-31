@@ -16,7 +16,7 @@ krs:
   - c: 未着手
     t: 1000
     u: 件
-  status: 未着手
+  status: 順調
 - id: kocho-o1-kr2
   k: KR2
   text: 聴いた意見で、政調の案が進化した/変わった政策の論点 2件
@@ -38,7 +38,7 @@ krs:
   - c: 未着手
     t: 3
     u: 件
-  status: 未着手
+  status: 順調
 - id: kocho-o1-kr4
   k: KR4
   text: 上記サイクルのマネジメントが常態的にできている（O2に共通）

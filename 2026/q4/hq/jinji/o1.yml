@@ -13,7 +13,8 @@ krs:
   - c: 0
     t: 3
     u: 名
-  status: 順調
+  status: 達成
+  why: 3人の採用が確定したため
 - id: jinji-o1-kr1-2
   k: KR1-2
   text: 本部長候補/高度専門人材の4Q中のエントリーが10件以上ある
@@ -22,4 +23,4 @@ krs:
   - c: 3
     t: 10
     u: 件
-  status: 順調
+  status: 注意

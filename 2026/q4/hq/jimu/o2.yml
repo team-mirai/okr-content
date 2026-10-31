@@ -17,7 +17,7 @@ krs:
   - c: 未着手
     t: 3
     u: 本
-  status: 未着手
+  status: 順調
 - id: jimu-o2-kr2
   k: KR2
   text: デジタル民主主義のための情報管理ガイドライン ver0.1の完成
@@ -29,4 +29,4 @@ krs:
   text: インシデント対応ガイドライン作成 ver0.1の完成
   summary: インシデント対応ガイドライン ver0.1を完成させる
   goal_word: 完成
-  status: 未着手
+  status: 順調
