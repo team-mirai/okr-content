@@ -1,0 +1,23 @@
+office: mineshima
+id: mineshima-o2
+label: O2
+kind: party
+copy: 議員室の活動・判断・お金をまる見えにし、型として他議員室に渡せている
+objective:
+  - 峰島議員室の活動・判断・お金が議員HPで誰でも確かめられる状態になり、それが個人レベルで透明化する型として、他の議員室に渡せている
+krs:
+  - id: mineshima-o2-kr2-1
+    k: KR2-1
+    text: 活動を公開：国会の内外の活動（視察、国政報告会など）を全て7日以内にHPへ載せる
+    summary: 国会内外の活動を、7日以内にすべてHPに載せる
+    status: 未着手
+  - id: mineshima-o2-kr2-2
+    k: KR2-2
+    text: 判断を公開：担当委員会や協議会での発言、関わった法案の賛否について、自分の判断の理由をHP、SNSに載せる
+    summary: 発言や賛否の判断理由を、HP・SNSで公開する
+    status: 未着手
+  - id: mineshima-o2-kr2-3
+    k: KR2-3
+    text: 型を他議員に渡す：HPの構成と運用手順を文書化し、党内に公開する
+    summary: HPの構成と運用手順を文書にし、党内に公開する
+    status: 未着手

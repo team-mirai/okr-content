@@ -51,7 +51,7 @@ issues:
     - koho-o3-kr3-2
     - koho-o3-kr3-2b
   - key: loop
-    tag: ループを回す
+    tag: サイクルを回す
     kicker: サイクル全体
     title: 聴くから伝えるまでを一周させる
     note: 一つのテーマで最後まで完走し、場と道具を改善しながら回し続ける。

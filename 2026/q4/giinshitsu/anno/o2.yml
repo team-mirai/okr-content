@@ -1,0 +1,28 @@
+office: anno
+id: anno-o2
+label: O2
+kind: party
+copy: 党全体の必達目標を達成する
+objective:
+  - 党全体の必達目標を達成する
+krs:
+  - id: anno-o2-kr2-1
+    k: KR2-1
+    text: 党のミッション・OKRが共通言語として党内に浸透し、各自が当事者意識を持ち、行動規範・意思決定軸として機能している
+    summary: 党のミッション・OKRを党内の共通言語にする
+    status: 未着手
+  - id: anno-o2-kr2-2
+    k: KR2-2
+    text: トップタレントに対する組織的な採用計画と行動がなされ、複数名の本部長以上クラスの参画が決まっている
+    summary: トップタレント人材を複数名迎える
+    status: 未着手
+  - id: anno-o2-kr2-3
+    k: KR2-3
+    text: 全本部が「デジタル民主主義」を中心に動き、サイクルの象徴事例をつくりにいく
+    summary: 全本部でデジタル民主主義サイクルの象徴事例をつくる
+    status: 未着手
+  - id: anno-o2-kr2-4
+    k: KR2-4
+    text: 徹底的にオープンにする
+    summary: 徹底的にオープンにする
+    status: 未着手
