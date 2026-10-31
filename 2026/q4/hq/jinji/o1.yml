@@ -10,7 +10,7 @@ krs:
   text: 本部長候補の採用が３名以上決まっている
   summary: 本部長候補を3名以上採用する
   metrics:
-  - c: 0
+  - c: 3
     t: 3
     u: 名
   status: 達成
