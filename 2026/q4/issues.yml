@@ -57,10 +57,8 @@ issues:
     note: 一つのテーマで最後まで完走し、場と道具を改善しながら回し続ける。
     krs:
     - koho-o4-kr4-2
-    - kocho-o2-kr2
-    - kocho-o1-kr4
-    - kocho-o2-kr4
     - kocho-o3-kr3
+    - kocho-o3-kr-eval
 - key: open
   visual: index
   lead: ブラックボックスになった政治をオープンにする。結果だけでなく、その議論の過程や決め方まで、できる限り公開します。
