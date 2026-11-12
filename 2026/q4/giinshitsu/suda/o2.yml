@@ -2,9 +2,9 @@ office: suda
 id: suda-o2
 label: O2
 kind: party
-copy: 自動運転政策の党の見解を明確にする
+copy: 自動運転政策の私案を公開し、党の議論の土台にする
 objective:
-  - 自動運転政策について党としての見解を明確にする
+  - 自動運転政策について議員室の私案を公開し、党の議論の土台にする
 krs:
   - id: suda-o2-kr2-1
     k: KR2-1
