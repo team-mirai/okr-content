@@ -7,8 +7,8 @@ objective:
 krs:
 - id: kaihatsu-o2-kr1
   k: KR1
-  text: みらい版Polisを本番公開し、論点投票×AIインタビューで意見グループを構造化できるようにする
-  summary: 異なる意見を可視化するみらい版Polisを公開する
+  text: 賛同が集まった声に党が回答するプラットフォームをテスト公開し、回答実績を作れている
+  summary: 賛同が集まった声に党が回答する場をテスト公開し、回答実績を作る
   goal_word: 公開
   status: 順調
 - id: kaihatsu-o2-kr2
