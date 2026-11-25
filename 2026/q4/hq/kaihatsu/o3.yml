@@ -17,7 +17,7 @@ krs:
     t: 2
     u: 倍
     l: 利用（7月比）
-  status: 順調
+  status: 注意
 - id: kaihatsu-o3-kr2
   k: KR2
   text: 全プロダクトのUU（＝ブラウザ数）の定義と計測が始まり、月次で数字が出ている
